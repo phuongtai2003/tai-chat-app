@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "843767397688",
+    "project_id": "tai-flutter-chat-app",
+    "storage_bucket": "tai-flutter-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843767397688:android:572d794f9119367082d5cd",
+        "android_client_info": {
+          "package_name": "com.example.tai_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843767397688-jmf4tmrcacj290sann1pm97dm7o0stur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuuqrQ1m9PMHX7grLFwPBvWuvIpQ0kobg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843767397688-jmf4tmrcacj290sann1pm97dm7o0stur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

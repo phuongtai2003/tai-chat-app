@@ -1,0 +1,11 @@
+{
+    "page_not_found": "Page not found",
+    "login": "Login",
+    "register": "Register",
+    "password": "Password",
+    "confirm_password": "Confirm Password",
+    "password_not_match": "Password does not match",
+    "user_created_successfully": "User created successfully",
+    "username": "Username",
+    "email_not_verified": "Email is not verified"
+}

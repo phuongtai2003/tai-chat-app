@@ -1,0 +1,11 @@
+{
+    "page_not_found": "Trang không tồn tại",
+    "login": "Đăng nhập",
+    "register": "Đăng kí",
+    "password": "Mật khẩu",
+    "confirm_password": "Xác nhận mật khẩu",
+    "password_not_match": "Mật khẩu không trùng khớp",
+    "user_created_successfully": "Tài khoản mới đã được tạo",
+    "username": "Tên người dùng",
+    "email_not_verified": "Email chưa được kích hoạt"
+}
